@@ -7,7 +7,7 @@ Olá! Eu sou o Douglas Cabral
 
 <div align="center">
   <a href="https://github.com/PowerSen1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PowerSen1&show_icons=false&theme=monokai&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PowerSen1&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSen1&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
