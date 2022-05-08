@@ -1,6 +1,6 @@
-Olá! Eu sou o Douglas Cabral
+Olá! Eu sou o Douglas Cabral!
 
-- 🔭 Hoje trabalho como Estagiario Repositor
+- 🔭 Hoje procuro estágio na área de programação
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com
 - 😄 Pronouns: Ele/dele
