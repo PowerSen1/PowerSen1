@@ -1,5 +1,3 @@
-# Projeto Landing Page HTML e CSS
-
 - 🔭 Hoje procuro estágio na área de programação
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com
