@@ -1,5 +1,5 @@
 - 🔭 Estagiando
-- 🌱 Estudando HTML, CSS, JavaScript, C/C++
+- 🌱 HTML, CSS, JavaScript, C/C++
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com
 - 😄 Pronouns: Ele/dele
 
