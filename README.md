@@ -1,5 +1,5 @@
-- 🔭 Hoje procuro estágio na área de programação
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Estagiando
+- 🌱 Estudando HTML, CSS, JavaScript, C/C++
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com
 - 😄 Pronouns: Ele/dele
 
