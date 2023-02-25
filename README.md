@@ -1,6 +1,6 @@
-- 🔭 Estagiando
-- 🌱 HTML, CSS, JavaScript, C/C++
-- 📫 Contate-me no E-mail: douglascblsousa25@gmail.com
+- 🔭 Cyber Security Intern no Santander.
+- 🌱 HTML, CSS, JavaScript, C/C++, Python, Java.
+- 📫 Contate-me no E-mail: douglascblsousa25@gmail.com ou powersen1@gmail.com
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
