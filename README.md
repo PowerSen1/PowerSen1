@@ -1,5 +1,5 @@
-- 🔭 Studying Pentest.
-- 🌱 HTML, CSS, JavaScript, C/C++, Python, Java.
+- 🔭 Studying Pentest - DCPT in Progress.
+- 🌱 H, C/C++, Python, Java.
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com ou powersen1@gmail.com
 - 😄 Pronouns: Ele/dele
 
