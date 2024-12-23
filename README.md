@@ -1,7 +1,6 @@
 - 🔭 Studying Pentest - DCPT in Progress.
 - 🌱 C/C++, Python, Java.
 - 📫 Contate-me no E-mail: douglascblsousa25@gmail.com ou powersen1@gmail.com
-- 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/PowerSen1">
