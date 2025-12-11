@@ -36,7 +36,7 @@
 
 ---
 
-## 🔥 Badges Animadas (super estiloso)
+## 🔥 Badges Animadas
 
 <p align="center">
 
