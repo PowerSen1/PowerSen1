@@ -1,8 +1,3 @@
-<!-- BANNER / GIF DO TOPO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/fx3CibpC1G2H6/giphy.gif" width="320" style="border-radius: 20px;">
-</p>
-
 <h1 align="center">👋 Olá! Eu sou o Douglas</h1>
 
 <p align="center">
@@ -11,13 +6,18 @@
 
 ---
 
-<!-- ESTATÍSTICAS -->
+<!-- ESTATÍSTICAS: fallback rápido com Shields.io (substitui cards instáveis) -->
 <div align="center">
-  <a href="https://github.com/PowerSen1">
-    <!-- Stats simplificados para reduzir falhas -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PowerSen1&show_icons=true&theme=monokai&hide_border=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerSen1&layout=compact&langs_count=7&theme=monokai&hide_border=true" />
-  </a>
+  <p>
+    <img src="https://img.shields.io/github/followers/PowerSen1?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/PowerSen1?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/repo-size/PowerSen1/PowerSen1?label=Repo%20Size&style=for-the-badge" />
+    <img src="https://img.shields.io/github/languages/top/PowerSen1/PowerSen1?label=Top%20Language&style=for-the-badge" />
+  </p>
+
+  <!-- Opcional: quando sua instância personalizada estiver pronta, substitua abaixo -->
+  <!-- <img height="170em" src="https://YOUR-INSTANCE.vercel.app/api?username=PowerSen1&show_icons=true&theme=monokai&hide_border=true" />
+  <img height="170em" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=PowerSen1&layout=compact&langs_count=7&theme=monokai&hide_border=true" /> -->
 </div>
 
 ---
