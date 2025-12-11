@@ -36,8 +36,6 @@
 
 ---
 
-## 🔥 Badges Animadas
-
 <p align="center">
 
   <!-- typing SVG -->
