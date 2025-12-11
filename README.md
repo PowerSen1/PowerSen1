@@ -6,6 +6,15 @@
 
 ---
 
+## 🧠 Sobre Mim
+
+- Focado em segurança ofensiva. Café forte é minha única dependência listada.  
+- Quebro sistemas — mas somente os que me deixam.  
+- Interesse profundo por análise de ameaças, automação inteligente e engenharia reversa.  
+- Acredito que cada bug tem uma história… e eu gosto de investigar todas.  
+
+---
+
 <!-- ESTATÍSTICAS: fallback rápido com Shields.io (substitui cards instáveis) -->
 <div align="center">
   <p>
