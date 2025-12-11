@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 - Focado em segurança ofensiva. Café forte é minha única dependência listada.  
 - Quebro sistemas — mas somente os que me deixam.  
