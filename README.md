@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Douglas</h1>
 
 <p align="center">
-  <em>Segurança Ofensiva • Criativo • Sempre aprendendo</em>
+  <em>Segurança Ofensiva • Sempre aprendendo</em>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Tecnologias que eu uso
+## Tecnologias que eu uso
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🌍 Onde me encontrar
+## Onde me encontrar
 
 <p align="center">
   <a href="https://www.instagram.com/mibr_douglas/" target="_blank">
@@ -88,11 +88,11 @@
 
 ---
 
-## ✨ Interesses Complementares
+## Interesses Complementares
 
 - Robótica e automação como hobby  
 - Desenvolvimento de jogos (principalmente por curiosidade técnica)
 
 <p align="center">
-  ✨ *Sempre evoluindo, sempre criando.* ✨
+  *Sempre evoluindo, sempre criando.*
 </p>
